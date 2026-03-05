@@ -1,19 +1,81 @@
 # 💫 Hi 👋, I'm Aditi Singh
-**A passionate Data Analyst || ML Engineer || Data Science from India**
 
-Email Me 👉 ✉️ **aditisingh14923@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+**Data Analyst | Machine Learning Enthusiast | SQL & Python Developer | Aspiring Data Engineer**
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📍 India
+
+Email Me 👉 ✉️ **[aditisingh14923@gmail.com](mailto:aditisingh14923@gmail.com)** for **collaborations, projects, or tech discussions**.
+
+---
+
+### 🚀 About Me
+
+* 🔭 **Currently Working On:**
+  Data Analytics & Machine Learning projects including **Food Delivery Analytics (Zomato-style database)** and **FastAPI ML deployment applications**.
+
+* 🌱 **Currently Learning:**
+  **Advanced SQL, Data Engineering concepts, Machine Learning, and Cloud basics** to build scalable data systems.
+
+* 👯 **Looking to Collaborate On:**
+  **Data Analytics, Machine Learning, and Backend Data Projects** involving **Python, SQL, FastAPI, and real-world datasets**.
+
+* 🤔 **Looking For Help With:**
+  **Production-level ML deployment, cloud integration, and large-scale data pipelines.**
+
+* 💬 **Ask Me About:**
+  **SQL Projects, Data Analytics, Python for Data Science, FastAPI APIs, GitHub project setup, and beginner ML projects.**
+
+* 📫 **How To Reach Me:**
+  ✉️ **[aditisingh14923@gmail.com](mailto:aditisingh14923@gmail.com)**
+
+* 😄 **Pronouns:**
+  She/Her
+
+* ⚡ **Fun Fact:**
+  I love turning **raw data into meaningful insights** and building **projects that solve real-world problems.**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+Python, SQL
+
+**Data & Analytics:**
+Pandas, NumPy, Matplotlib, Data Cleaning, Exploratory Data Analysis (EDA)
+
+**Databases:**
+MySQL, PostgreSQL
+
+**Machine Learning:**
+Scikit-learn, Model Training, Prediction Systems
+
+**Backend & Deployment:**
+FastAPI, REST APIs
+
+**Tools:**
+Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+
+---
+
+### 🌐 Connect With Me
+
+📧 **Email:** [aditisingh14923@gmail.com](mailto:aditisingh14923@gmail.com)
+
+---
+
+⭐ *Always open to learning, collaboration, and exciting data projects!*
+
 - 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditisingh14923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditi Singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Aditi Job Alerts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditisingh14923@gmail.com) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditisingh14923) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-6294a624b/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@careerwithaditi) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditisingh14923@gmail.com)
 
 <!-- Snake Game Repo View -->
 
