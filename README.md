@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Aditi Singh
 
-**Data Analyst | Machine Learning Enthusiast | SQL & Python Developer | Aspiring Data Engineer**
+**NVIDIA**
 
 📍 India
 
