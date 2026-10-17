@@ -8,22 +8,15 @@ Email Me 👉 ✉️ **[aditisingh14923@gmail.com](mailto:aditisingh14923@gmail.
 
 ---
 
+
 ### 🚀 About Me
 
-* 🔭 **Currently Working On:**
-  Data Analytics & Machine Learning projects including **Food Delivery Analytics (Zomato-style database)** and **FastAPI ML deployment applications**.
-
-* 🌱 **Currently Learning:**
-  **Advanced SQL, Data Engineering concepts, Machine Learning, and Cloud basics** to build scalable data systems.
-
-* 👯 **Looking to Collaborate On:**
-  **Data Analytics, Machine Learning, and Backend Data Projects** involving **Python, SQL, FastAPI, and real-world datasets**.
-
-* 🤔 **Looking For Help With:**
-  **Production-level ML deployment, cloud integration, and large-scale data pipelines.**
-
-* 💬 **Ask Me About:**
-  **SQL Projects, Data Analytics, Python for Data Science, FastAPI APIs, GitHub project setup, and beginner ML projects.**
+- 🔭 **Currently Working On:** AI data processing for autonomous-driving map data at **NVIDIA**, while building projects in **LLM applications, RAG, and multi-agent AI systems**.
+- 🌱 **Currently Learning:** **Prompt Engineering, LLM fundamentals, LangChain, Retrieval-Augmented Generation (RAG), and LLM evaluation** to develop practical Generative AI solutions.
+- 👯 **Looking to Collaborate On:** **Prompt Engineering, Generative AI, LLM evaluation, RAG applications, and AI agent projects** using Python and modern LLM frameworks.
+- 🤔 **Looking For Help With:** Improving **LLM evaluation techniques, production-ready GenAI applications, API integration, and scalable AI workflows**.
+- 💬 **Ask Me About:** **Python, SQL, Data Analytics, Machine Learning, Prompt Engineering, LangChain, RAG, FastAPI, and AI project development**.
+- 🎯 **Career Goal:** To grow into an **LLM Analyst, Prompt Engineer, or Generative AI professional**, building reliable and effective AI-powered solutions.
 
 * 📫 **How To Reach Me:**
   ✉️ **[aditisingh14923@gmail.com](mailto:aditisingh14923@gmail.com)**
